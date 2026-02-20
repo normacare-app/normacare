@@ -21,7 +21,7 @@
 
 NormaCare est une plateforme d'intégration médicale universelle — **comme Talend, mais spécialisée pour le secteur de la santé**. Elle permet de connecter, transformer et router tous vos flux de données médicales via un studio visuel low-code, sans compétences techniques avancées.
 
-Développée par [FDevelopment LTD](https://normacare.app/about.html), NormaCare est le fruit de plus de 15 ans d'expérience en interopérabilité hospitalière (CHU Montpellier, CHU Bordeaux, AP-HP...).
+Développée par [FDevelopment LTD](https://normacare.app/about.html), NormaCare est le fruit de plus de 15 ans d'expérience en interopérabilité hospitalière.
 
 ### 🔌 Protocoles supportés
 
@@ -63,7 +63,7 @@ Vous pouvez contribuer en :
 
 NormaCare is a universal medical integration platform — **like Talend, but purpose-built for healthcare**. It enables you to connect, transform, and route all your medical data flows through a visual low-code studio, with no advanced technical skills required.
 
-Developed by [FDevelopment LTD](https://normacare.app/about.html), NormaCare is built on 15+ years of hospital interoperability experience (CHU Montpellier, CHU Bordeaux, AP-HP...).
+Developed by [FDevelopment LTD](https://normacare.app/about.html), NormaCare is built on 15+ years of hospital interoperability experience.
 
 ### 🔌 Supported Protocols
 
